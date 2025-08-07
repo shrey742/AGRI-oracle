@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 # Title
-st.title("🌾 AI-Based Crop Yield Prediction App")
+st.title("🌾 AGRI-oracle App(AI based crop yield predictor)")
 
 # Description
 st.write("""
